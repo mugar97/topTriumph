@@ -1,0 +1,39 @@
+make,model,year,trim,imagenUrl,velocidad_max_kmh,cero_a_100_s,potencia_hp,torque_nm,peso_kg,autonomia_km,precio_usd,categoria
+Lamborghini,Aventador,2021,SVJ LP 770-4,https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&auto=format&fit=crop&q=60,350,2.8,759,720,1525,420,517770,superdeportivo
+Porsche,911,2022,Turbo S (992),https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&auto=format&fit=crop&q=60,330,2.7,650,800,1640,481,216100,superdeportivo
+McLaren,720S,2021,Performance,https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&auto=format&fit=crop&q=60,341,2.9,710,770,1419,520,299000,superdeportivo
+Bugatti,Chiron,2017,Base,https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&auto=format&fit=crop&q=60,420,2.4,1500,1600,1995,440,3000000,superdeportivo
+Nissan,GT-R,2021,NISMO,https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&auto=format&fit=crop&q=60,315,3.0,600,652,1753,565,210740,deportivo icono
+Toyota,GR Supra,2023,3.0 (AT),https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&auto=format&fit=crop&q=60,250,4.3,382,500,1520,477,54500,deportivo icono
+Ford,F-150,2023,Raptor (V6),https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&auto=format&fit=crop&q=60,180,5.5,450,691,2650,866,78000,camionetas & pick-ups
+Ram,1500,2021,TRX,https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&auto=format&fit=crop&q=60,190,4.5,702,881,2881,638,71690,camionetas & pick-ups
+Volkswagen,Golf GTI,2024,Autobahn DSG,https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&auto=format&fit=crop&q=60,250,6.3,241,370,1446,568,31965,compactos & hatchbacks
+Honda,Civic Type R,2023,FL5,https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&auto=format&fit=crop&q=60,275,5.4,315,420,1446,484,43990,compactos & hatchbacks
+Ferrari,F8 Tributo,2020,Base,https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&auto=format&fit=crop&q=60,340,2.9,710,770,1435,600,276550,superdeportivo
+Lamborghini,Huracán EVO,2020,AWD,https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&auto=format&fit=crop&q=60,325,2.9,640,600,1422,528,261274,superdeportivo
+Audi,R8,2020,V10 Performance quattro,https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&auto=format&fit=crop&q=60,331,3.1,602,560,1595,557,208995,superdeportivo
+Porsche,911 GT3,2022,992,https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&auto=format&fit=crop&q=60,318,3.4,502,470,1418,500,230500,superdeportivo
+Ford,Mustang GT,2024,5.0 V8 Fastback,https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&auto=format&fit=crop&q=60,250,4.1,480,563,1680,463,41495,deportivo icono
+Chevrolet,Corvette Stingray,2024,C8 Z51,https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800&auto=format&fit=crop&q=60,312,2.9,490,630,1532,566,69995,deportivo icono
+BMW,M4 Competition,2022,G82 xDrive,https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&auto=format&fit=crop&q=60,250,3.8,503,650,1725,452,74900,deportivo icono
+Toyota,GR86,2022,Manual,https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&auto=format&fit=crop&q=60,226,6.3,228,249,1270,531,28700,deportivo icono
+Chevrolet,Silverado 1500,2023,LT 6.2L V8,https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&auto=format&fit=crop&q=60,180,5.8,420,624,2400,657,55000,camionetas & pick-ups
+Ford,Ranger Raptor,2024,3.0 EcoBoost V6,https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&auto=format&fit=crop&q=60,180,5.3,405,583,2400,493,56260,camionetas & pick-ups
+Jeep,Wrangler Rubicon,2023,JL 3.6 V6,https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&auto=format&fit=crop&q=60,180,7.6,285,353,2050,692,45795,camionetas & pick-ups
+MINI,John Cooper Works,2022,2 Door,https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&auto=format&fit=crop&q=60,246,5.9,228,319,1338,467,33900,compactos & hatchbacks
+Mazda,MX-5 Miata,2023,Club Manual,https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&auto=format&fit=crop&q=60,220,5.7,181,205,1061,555,28985,compactos & hatchbacks
+Volkswagen,Golf R,2023,MK8 DSG,https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&auto=format&fit=crop&q=60,250,4.6,315,420,1544,606,44640,compactos & hatchbacks
+Audi,A3,2022,40 TFSI quattro,https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&auto=format&fit=crop&q=60,209,6.3,201,300,1585,724,34900,compactos & hatchbacks
+Toyota,Corolla Hatchback,2023,XSE,https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&auto=format&fit=crop&q=60,195,7.9,169,205,1350,744,23565,compactos & hatchbacks
+Audi,Q7,2022,55 TFSI quattro,https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&auto=format&fit=crop&q=60,209,5.7,335,500,2190,787,59800,familiares & suv modernos
+Volvo,XC90 Recharge,2022,T8 eAWD,https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&auto=format&fit=crop&q=60,180,5.3,455,709,2305,795,71900,familiares & suv modernos
+Toyota,RAV4 Hybrid,2023,XSE,https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&auto=format&fit=crop&q=60,200,7.8,219,221,1680,933,30925,familiares & suv modernos
+Kia,Sportage,2024,X-Line AWD 2.5,https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&auto=format&fit=crop&q=60,190,8.8,187,241,1660,568,27990,familiares & suv modernos
+Chevrolet,Spark GT,2012,LT,https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&auto=format&fit=crop&q=60,164,15.5,80,108,1065,580,9500,familiares & suv modernos
+Hyundai,Santa Fe,2022,SEL 2.5L,https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&auto=format&fit=crop&q=60,200,8.8,191,245,1730,770,27900,familiares & suv modernos
+Chevrolet,Camaro SS,2020,6.2L V8,https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&auto=format&fit=crop&q=60,290,4.0,455,617,1683,560,42695,deportivo icono
+Volkswagen,Beetle,1970,1300,https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=800&auto=format&fit=crop&q=60,130,23.0,34,72,800,500,12000,clásicos legendarios
+Ford,Mustang,1969,Mach 1,https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&auto=format&fit=crop&q=60,209,6.0,335,597,1650,530,48000,clásicos legendarios
+DeLorean,DMC-12,1981,Base,https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&auto=format&fit=crop&q=60,177,10.5,130,207,1230,570,30000,clásicos legendarios
+Chevrolet,Impala,1967,SS 427,https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=800&auto=format&fit=crop&q=60,200,7.0,385,624,1750,510,55000,clásicos legendarios
+Porsche,356,1955,Speedster,https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&auto=format&fit=crop&q=60,160,13.0,60,81,770,540,400000,clásicos legendarios
